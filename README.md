@@ -1,0 +1,1 @@
+# rpmspec-for-OpenaiWhisper
